@@ -1,0 +1,10 @@
+c:\users\am\documents\visual studio 2012\Projects\primeraPractica\primeraPractica\bin\Debug\primeraPractica.exe.config
+C:\Users\AM\Documents\Visual studio 2012\Projects\primeraPractica\primeraPractica\bin\Debug\primeraPractica.exe
+C:\Users\AM\Documents\Visual studio 2012\Projects\primeraPractica\primeraPractica\bin\Debug\primeraPractica.pdb
+C:\Users\AM\Documents\Visual studio 2012\Projects\primeraPractica\primeraPractica\bin\Debug\primeraPractica.xml
+C:\Users\AM\Documents\Visual studio 2012\Projects\primeraPractica\primeraPractica\obj\Debug\primeraPractica.Form1.resources
+C:\Users\AM\Documents\Visual studio 2012\Projects\primeraPractica\primeraPractica\obj\Debug\primeraPractica.Resources.resources
+C:\Users\AM\Documents\Visual studio 2012\Projects\primeraPractica\primeraPractica\obj\Debug\primeraPractica.vbproj.GenerateResource.Cache
+C:\Users\AM\Documents\Visual studio 2012\Projects\primeraPractica\primeraPractica\obj\Debug\primeraPractica.exe
+C:\Users\AM\Documents\Visual studio 2012\Projects\primeraPractica\primeraPractica\obj\Debug\primeraPractica.xml
+C:\Users\AM\Documents\Visual studio 2012\Projects\primeraPractica\primeraPractica\obj\Debug\primeraPractica.pdb
